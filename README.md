@@ -1,1 +1,1 @@
-# 32nd-TREC-Text-Retrieval-Conference-
+# 32nd-TREC-Text-Retrieval-Conference
