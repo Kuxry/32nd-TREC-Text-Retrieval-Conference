@@ -1,1 +1,1 @@
-# 32nd-TREC-Text-Retrieval-Conference
+# IIUoT at TREC 2024 Biomedical Generative Retrieval Track
